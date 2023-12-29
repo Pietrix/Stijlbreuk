@@ -1,0 +1,446 @@
+[
+    {
+        "id": 1,
+        "question": "How often do you eat animal-based products?",
+        "explanation": "beef, pork, chicken, fish, eggs, dairy products",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "Never",
+                "explanation": "vegan",
+                "co2Value": 472
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "Infrequently",
+                "explanation": "vegetarian - eggs/dairy, no meat",
+                "co2Value": 708
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "Occasionally",
+                "explanation": "really like veggies - occasional meat, eggs/dairy",
+                "co2Value": 1543
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "Often",
+                "explanation": "balanced meat/veggies - meat a few times a week, eggs/dairy almost daily",
+                "co2Value": 2478
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "Every day",
+                "explanation": "meat daily",
+                "co2Value": 3168
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "How much of the food that you eat is unprocessed, unpackaged or locally grown?",
+        "explanation": "less than 320 kilometers away",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "0%",
+                "explanation": "",
+                "co2Value": 1404
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "25%",
+                "explanation": "",
+                "co2Value": 1092
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "50%",
+                "explanation": "",
+                "co2Value": 680
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "75%",
+                "explanation": "",
+                "co2Value": 312
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "100%",
+                "explanation": "",
+                "co2Value": 208
+            }
+        ],
+    },
+    {
+        "id": 3,
+        "question": "Which housing type best describes your home?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "Studio",
+                "explanation": "",
+                "co2Value": 267
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "Appartment",
+                "explanation": "",
+                "co2Value": 400
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "Townhouse",
+                "explanation": "",
+                "co2Value": 872
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "Semi detached house",
+                "explanation": "",
+                "co2Value": 1400
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "Detached house",
+                "explanation": "",
+                "co2Value": 1800
+            }
+        ],
+    },
+    {
+        "id": 4,
+        "question": "How many people live in your household?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "1",
+                "explanation": "",
+                "co2Value": 141
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "2-3",
+                "explanation": "",
+                "co2Value": 212
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "4-6",
+                "explanation": "",
+                "co2Value": 462
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "7-10",
+                "explanation": "",
+                "co2Value": 742
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "10 or more",
+                "explanation": "",
+                "co2Value": 954
+            }
+        ],
+    },
+    {
+        "id": 5,
+        "question": "What is the size of your home?",
+        "explanation": "in square meters",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "Tiny",
+                "explanation": "5-10m2",
+                "co2Value": 216
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "Small",
+                "explanation": "10-40m2",
+                "co2Value": 324
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "Medium",
+                "explanation": "40-130m2",
+                "co2Value": 706
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "Large",
+                "explanation": "130-450m2",
+                "co2Value": 1134
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "Huge",
+                "explanation": "450m2 or more",
+                "co2Value": 1458
+            }
+        ],
+    },
+    {
+        "id": 6,
+        "question": "How energy efficient is your home?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "Very inefficient",
+                "explanation": "inefficient lighting, standard appliances",
+                "co2Value": 1935
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "Below average",
+                "explanation": "poor insulation, few LED lamps, heating/cooling systems used often",
+                "co2Value": 1505
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "Average",
+                "explanation": "modern appliances, climate controls",
+                "co2Value": 937
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "Above average",
+                "explanation": "well insulated, efficient lighting and appliances, careful use",
+                "co2Value": 430
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "Energy efficient design",
+                "explanation": "passive heating/cooling, advanced temperature control and ventilation, low electricity use",
+                "co2Value": 287
+            },
+        ],
+    },
+    {
+        "id": 7,
+        "question": "What percentage of your home's electricity comes from renewable sources?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "0%",
+                "explanation": "",
+                "co2Value": 2309
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "25%",
+                "explanation": "",
+                "co2Value": 1796
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "50%",
+                "explanation": "",
+                "co2Value": 1118
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "75%",
+                "explanation": "",
+                "co2Value": 513
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "100%",
+                "explanation": "",
+                "co2Value": 342
+            },
+        ],
+    },
+    {
+        "id": 8,
+        "question": "Compared to your neighbors, how much trash do you generate?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "Much less",
+                "explanation": "",
+                "co2Value": 93
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "Less",
+                "explanation": "",
+                "co2Value": 140
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "Same",
+                "explanation": "",
+                "co2Value": 305
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "More",
+                "explanation": "",
+                "co2Value": 490
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "Much more",
+                "explanation": "",
+                "co2Value": 630
+            }
+        ],
+    },
+    {
+        "id": 9,
+        "question": "How far do you travel by car each week?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "0km",
+                "explanation": "",
+                "co2Value": 408
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "0-100km",
+                "explanation": "",
+                "co2Value": 612
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "100-250km",
+                "explanation": "",
+                "co2Value": 1334
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "250-500km",
+                "explanation": "",
+                "co2Value": 2142
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "500km or more",
+                "explanation": "",
+                "co2Value": 2754
+            }
+        ],
+    },
+    {
+        "id": 10,
+        "question": "When you travel by car, how often do you carpool?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "Never",
+                "explanation": "",
+                "co2Value": 1265
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "Infrequently",
+                "explanation": "",
+                "co2Value": 984
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "Occasionally",
+                "explanation": "",
+                "co2Value": 613
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "Often",
+                "explanation": "",
+                "co2Value": 281
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "Always",
+                "explanation": "",
+                "co2Value": 187
+            },
+        ],
+    },
+    {
+        "id": 11,
+        "question": "How far do you travel on public transportation each week?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "0km",
+                "explanation": "",
+                "co2Value": 76
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "0-100km",
+                "explanation": "",
+                "co2Value": 114
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "100-250km",
+                "explanation": "",
+                "co2Value": 249
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "250-500km",
+                "explanation": "",
+                "co2Value": 399
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "500km or more",
+                "explanation": "",
+                "co2Value": 513
+            }
+        ],
+    },
+    {
+        "id": 12,
+        "question": "How many hours do you fly each year?",
+        "explanation": "",
+        "sliderValues": [
+            {
+                "id": 1,
+                "possibleAnswer": "0",
+                "explanation": "",
+                "co2Value": 237
+            },
+            {
+                "id": 2,
+                "possibleAnswer": "0-10",
+                "explanation": "",
+                "co2Value": 356
+            },
+            {
+                "id": 3,
+                "possibleAnswer": "10-50",
+                "explanation": "",
+                "co2Value": 1424
+            },
+            {
+                "id": 4,
+                "possibleAnswer": "50-100",
+                "explanation": "",
+                "co2Value": 2136
+            },
+            {
+                "id": 5,
+                "possibleAnswer": "100 or more",
+                "explanation": "",
+                "co2Value": 3382
+            }
+        ],
+    }
+]

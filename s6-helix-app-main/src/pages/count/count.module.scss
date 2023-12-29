@@ -1,0 +1,96 @@
+@import '../../styles/variables.scss';
+
+.wrapper{
+    padding: 0 $unit-l;
+    margin: 50px 0 100px 0;
+}
+
+.filters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: $unit-xl;
+    padding: $unit 0;
+
+    .filter{
+        align-self: center;
+        background-color: $clr-blue;
+        color: white;
+        padding: $unit-s-h;
+        border-radius: 5px;
+
+        &_Active{
+            align-self: center;
+            background-color: $clr-orange;
+            color: white;
+            padding: $unit-s-h;
+            border-radius: 5px;
+        }
+    }
+}
+
+.rideCard{
+    width: 100%;
+    height: $unit-xxl-m;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: $unit-l;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    overflow: hidden;
+
+    .rideImages{
+        width: $unit-xxl-m;
+        max-width: $unit-xxl-m;
+        background-color: grey;
+    }
+
+    .info{
+        width: calc(100% - $unit-xxl-m - $unit-xl-h);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding: $unit;
+
+        .type{
+            height: $unit-xl;
+            font-size: $fs-micro;
+        }
+
+        .waitingTimes{
+            display: flex;
+            flex-direction: row;
+
+            .time{
+                color: $clr-blue;
+                font-weight: $fw-bold;
+            }
+            .icon{
+                height: $unit-m;
+                padding-right: $unit-s;
+            }
+        }
+    }
+
+    .count{
+        display: flex;
+        justify-content: flex-end;
+        flex-direction: row;
+        width: $unit-xl-h;
+        height: $unit-xl-h;
+        align-self: center;
+        margin: $unit-m;
+
+        h3{
+            padding: $unit $unit-s $unit $unit-s;
+            background-color: $clr-orange;
+            align-self: center;
+            color: white;
+            border-radius: 5px;
+            width: $unit-m;
+            margin-left: $unit-xs;
+        }
+    }
+}
+
+

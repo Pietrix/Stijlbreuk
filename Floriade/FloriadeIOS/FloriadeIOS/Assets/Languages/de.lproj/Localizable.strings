@@ -1,0 +1,319 @@
+/*
+  Localizable.strings
+  FloriadeIOS
+
+  Created by Pieter van der Mullen on 22/03/2022.
+  
+*/
+/* No comment provided by engineer. */
+"Start" = "Start";
+
+
+/*
+ AR Screen page
+ */
+
+"Carbon footprint" = "CO2-Fußabdruck";
+
+/* Footprint titles*/
+"Dutch carbon footprint" = "Niederländischer Fußabdruck";
+"Ideal carbon footprint" = "Idealer Fußabdruck";
+"Your carbon footprint" = "Dein Fußabdruck";
+"You’re outside the Footprint" = "Du bist außerhalb des Fußabdrucks";
+"You’re inside the Dutch Footprint" = "Sie befinden sich im holländischen Footprint";
+"You’re inside the Ideal Footprint" = "Du bist innerhalb des idealen Fußabdrucks";
+
+"The Dutch carbon footprint" = "Der Niederländische CO2-Fußabdruck";
+"The ideal carbon footprint" = "Die idealer Fußabdruck";
+"Your personal carbon footprint" = "Ihr persönlicher CO2-Fußabdruck";
+
+"By selecting your personal carbon footprint you can calculate your own footprint. Answer the 12 questions by draging the bar" = "Durch die Auswahl Ihres persönlichen CO2-Fußabdrucks können Sie Ihren eigenen Fußabdruck berechnen. Antworten Sie auf die 12 Fragen, indem Sie den Balken ziehen";
+
+"Your data will not be saved" = "Ihre Daten werden nicht gespeichert";
+"Calcuted carbon footprint isn’t fully accurate" = "Der berechnete CO2-Fußabdruck ist nicht ganz genau";
+
+"You can switch between viewing the different footprints by selecting the feet show above." = "Sie können zwischen der Anzeige der verschiedenen Fußabdrücke wechseln, indem Sie oben die Fußanzeige auswählen.";
+
+/* Footprint descriptions */
+"The carbon footprint of the dutch" = "Der ökologische Fußabdruck des durchschnittlichen Niederländers";
+"The carbon footprint neccesary to sustain earth" = "Der zur Erhaltung der Erde notwendige ökologische Fußabdruck";
+"Your carbon footprint based on answered questions" = "Ihr ökologischer Fußabdruck basierend auf den beantworteten Fragen";
+
+/* Data Descriptions*/
+"Hectares" = "Hektar";
+"Size" = "Größe";
+"Earths" = "Erden";
+"Earth" = "Erde";
+"Overshoot day" = "Überschreitungstag";
+"AR Footprint" = "AR Fußabdruck";
+"Use your phone to scan the map given to you at the entrance or use one of the sign placed around the floriade." = "Verwenden Sie Ihr Telefon, um die Karte zu scannen, die Sie am Eingang erhalten, oder verwenden Sie eines der Schilder, die rund um die Floriade angebracht sind.";
+
+/* Buttons */
+"See on map" = "Auf Karte anzeigen";
+"AR Experience" = "AR-Erfahrung";
+"Map Experience" = "Karte-Erfahrung";
+"Calculate" = "Berechnen";
+"Next" = "Nächste";
+"Back" = "Zurück";
+"Ok" = "Ok";
+
+/* Months */
+"January" = "Januar";
+"February" = "Februar";
+"March" = "März";
+"April" = "April";
+"May" = "Mai";
+"June" = "Juni";
+"July" = "Juli";
+"August" = "Augustus";
+"September" = "September";
+"October" = "Oktober";
+"November" = "November";
+"December" = "Dezember";
+
+/* Questions*/
+
+/* Question 1 */
+/* Question */
+"How often do you eat animal-based products?" = "Wie oft essen Sie tierische Produkte?";
+/* Explanation */
+"beef, pork, chicken, fish, eggs, dairy products" = "rind, schwein, huhn, fisch, eier, milchprodukte";
+/* Answer 1 */
+"Never" = "Niemals";
+/* Answer 1 Explanation */
+"vegan" = "vegan";
+/* Answer 2 */
+"Infrequently" = "Selten";
+/* Answer 2 Explanation */
+"vegetarian - eggs/dairy, no meat" = "vegetarisch - Eier/Milch, kein Fleisch";
+/* Answer 3 */
+"Occasionally" = "Gelegentlich";
+/* Answer 3 Explanation */
+"really like veggies - occasional meat, eggs/dairy" = "wirklich wie Gemüse - gelegentlich Fleisch, Eier/Milchprodukte";
+/* Answer 4 */
+"Often" = "Oft";
+/* Answer 4 Explanation */
+"balanced meat/veggies - meat a few times a week, eggs/dairy almost daily" = "ausgewogenes Fleisch/Gemüse - Fleisch ein paar Mal pro Woche, Eier/Milchprodukte fast täglich";
+/* Answer 5 */
+"Every day" = "Jeden Tag";
+/* Answer 5 Explanation */
+"meat daily" = "fleisch täglich";
+
+/* Question 2 */
+/* Question */
+"How much of the food that you eat is unprocessed, unpackaged or locally grown?" = "Wie viele der Lebensmittel, die Sie essen, sind unverarbeitet, unverpackt oder lokal angebaut?";
+/* Explanation */
+"less than 320 kilometers away" = "weniger als 320 Kilometer entfernt";
+/* Answer 1 */
+"0%" = "0%";
+/* Answer 2 */
+"25%" = "25%";
+/* Answer 3 */
+"50%" = "50%";
+/* Answer 4 */
+"75%" = "75%";
+/* Answer 5 */
+"100%" = "100%";
+
+/* Question 3 */
+"Which housing type best describes your home?" = "Welcher Wohntyp beschreibt Ihr Zuhause am besten?";
+/* Question */
+"Studio" = "Studio";
+/* Answer 2 */
+"Appartment" = "Appartment";
+/* Answer 3 */
+"Townhouse" = "Reihenhaus";
+/* Answer 4 */
+"Semi detached house" = "Doppelhaushälfte";
+/* Answer 5 */
+"Detached house" = "Alleinstehendes Haus";
+/* Question 4 */
+/* Question */
+"How many people live in your household?" = "Wie viele Personen leben in Ihrem Haushalt?";
+/* Answer 1 */
+"1" = "1";
+/* Answer 2 */
+"2-3" = "2-3";
+/* Answer 3 */
+"4-6" = "4-6";
+/* Answer 4 */
+"7-10" = "7-10";
+/* Answer 5 */
+"10 or more" = "10 oder mehr";
+
+/* Question 5 */
+/* Question */
+"What is the size of your home?" = "Wie groß ist Ihr Haus?";
+/* Explanation */
+"in square meters" = "in Quadratmetern";
+/* Answer 1 */
+"Tiny" = "Winzig";
+/* Answer 1 Explanation */
+"5-10m2" = "5-10m2";
+/* Answer 2 */
+"Small" = "Klein";
+/* Answer 2 Explanation */
+"10-40m2" = "10-40m2";
+/* Answer 3 */
+"Medium" = "Mittel";
+/* Answer 3 Explanation */
+"40-130m2" = "40-130m2";
+/* Answer 4 */
+"Large" = "Groß";
+/* Answer 4 Explanation */
+"130-450m2" = "130-450m2";
+/* Answer 5 */
+"Huge" = "Riesig";
+/* Answer 5 Explanation */
+"450m2 or more" = "450m2 oder mehr";
+
+/* Question 6 */
+/* Question */
+"How energy efficient is your home?" = "Wie energieeffizient ist Ihr Zuhause?";
+/* Answer 1 */
+"Very inefficient" = "Sehr ineffizient";
+/* Answer 1 Explanation */
+"poor insulation, few LED lamps, heating/cooling systems used often" = "schlechte Isolierung, wenige LED-Lampen, häufig verwendete Heiz-/Kühlsysteme";
+/* Answer 2 */
+"Below average" = "Unterdurchschnittlich";
+/* Answer 2 Explanation */
+"inefficient lighting, standard appliances" = "ineffiziente Beleuchtung, Standardgeräte";
+/* Answer 3 */
+"Average" = "Durchschnitt";
+/* Answer 3 Explanation */
+"modern appliances, climate controls" = "moderne Geräte, Klimasteuerungen";
+/* Answer 4 */
+"Above average" = "Überdurchschnittlich";
+/* Answer 4 Explanation */
+"well insulated, efficient lighting and appliances, careful use" = "gut isolierte, effiziente Beleuchtung und Geräte, sorgfältiger Gebrauch";
+/* Answer 5 */
+"Energy efficient design" = "Energieeffizientes Design";
+/* Answer 5 Explanation */
+"passive heating/cooling, advanced temperature control and ventilation, low electricity use" = "passives Heizen/Kühlen, fortschrittliche Temperaturregelung und Belüftung, geringer Stromverbrauch";
+
+/* Question 7 */
+/* Question */
+"What percentage of your home's electricity comes from renewable sources?" = "Wie viel Prozent des Stroms Ihres Hauses stammt aus erneuerbaren Quellen?";
+/* Answer 1 */
+"0%" = "0%";
+/* Answer 2 */
+"25%" = "25%";
+/* Answer 3 */
+"50%" = "50%";
+/* Answer 4 */
+"75%" = "75%";
+/* Answer 5 */
+"100%" = "100%";
+
+/* Question 8 */
+/* Question */
+"Compared to your neighbors, how much trash do you generate?" = "Wie viel Müll produzierst du im Vergleich zu deinen Nachbarn?";
+/* Answer 1 */
+"Much less" = "Viel weniger";
+/* Answer 2 */
+"Less" = "Weniger";
+/* Answer 3 */
+"Same" = "Gleich";
+/* Answer 4 */
+"More" = "Mehr";
+/* Answer 5 */
+"Much more" = "Viel mehr";
+
+/* Question 9 */
+/* Question */
+"How far do you travel by car each week?" = "Wie weit fahren Sie jede Woche mit dem Auto?";
+/* Answer 1 */
+"0km" = "0km";
+/* Answer 2 */
+"0-100km" = "0-100km";
+/* Answer 3 */
+"100-250km" = "100-250km";
+/* Answer 4 */
+"250-500km" = "250-500km";
+/* Answer 5 */
+"500km or more" = "500km oder mehr";
+
+/* Question 10 */
+/* Question */
+"When you travel by car, how often do you carpool?" = "Wenn Sie mit dem Auto anreisen, wie oft bilden Sie Fahrgemeinschaften?";
+/* Answer 1 */
+"Never" = "Nie";
+/* Answer 2 */
+"Infrequently" = "Selten";
+/* Answer 3 */
+"Occasionally" = "Gelegentlich";
+/* Answer 4 */
+"Often" = "Oft";
+/* Answer 5 */
+"Always" = "Immer";
+
+/* Question 11 */
+/* Question */
+"How far do you travel on public transportation each week?" = "Wie weit fahren Sie jede Woche mit öffentlichen Verkehrsmitteln?";
+/* Answer 1 */
+"0km" = "0km";
+/* Answer 2 */
+"0-100km" = "0-100km";
+/* Answer 3 */
+"100-250km" = "100-250km";
+/* Answer 4 */
+"250-500km" = "250-500km";
+/* Answer 5 */
+"500km or more" = "500km oder mehr";
+
+/* Question 12 */
+/* Question */
+"How many hours do you fly each year?" = "Wie viele Stunden fliegen Sie jedes Jahr?";
+/* Answer 1 */
+"0" = "0";
+/* Answer 2 */
+"0-10" = "0-10";
+/* Answer 3 */
+"10-50" = "10-50";
+/* Answer 4 */
+"50-100" = "50-100";
+/* Answer 5 */
+"100 or more" = "100 oder mehr";
+
+/* Personal Ha */
+"Your ecological footprint is made up of" = "Ihr ökologischer Fußabdruck besteht aus";
+"global hectares. This means that you use a biocapacity of" = "globalen Hektar. Das bedeutet, dass Sie eine Biokapazität von";
+"hectares of biologically productive earth surface. This is more than the average Dutch person, so we would advise you to start living greener, because we don't have unlimited resources and ultimately must make do with the earth we have now." = "Hektar biologisch produktiver Erdoberfläche nutzen. Das ist weniger als der durchschnittliche Niederländer, gut gemacht! Das heißt aber nicht, dass wir nicht noch grüner leben sollten, denn am Ende müssen wir uns alle mit der Erde begnügen, die wir jetzt haben.";
+
+"Your ecological footprint is made up of" = "Ihr ökologischer Fußabdruck besteht aus";
+"global hectares. This means that you use a biocapacity of" = "globalen Hektar. Das bedeutet, dass Sie eine Biokapazität von";
+"hectares of biologically productive earth surface. This is less than the average Dutch person, well done! Nevertheless, this does not mean that we should not start living even greener, because in the end we all must make do with the earth we have now." = "Hektar biologisch produktiver Erdoberfläche nutzen. Das ist weniger als der durchschnittliche Niederländer, gut gemacht! Das heißt aber nicht, dass wir nicht noch grüner leben sollten, denn am Ende müssen wir uns alle mit der Erde begnügen, die wir jetzt haben.";
+
+"If we would live like you do, we need no less than" = "Wenn wir so leben würden wie du, brauchen wir nicht weniger als";
+"to suffice our needs." = "um unseren Bedarf zu decken";
+"earth" = "erde,";
+"earths" = "erden,";
+"Earth" = "Erde";
+
+"If everyone would be living like you, this is the date when we have used everything nature can renew in a whole year all over the Earth. This means that anything we use after this date, nature cannot renew it in that year." = "Wenn alle so leben würden wie Sie, ist dies das Datum, an dem wir alles verbraucht haben, was die Natur in einem ganzen Jahr auf der ganzen Erde erneuern kann. Das bedeutet, dass alles, was wir nach diesem Datum verwenden, die Natur in diesem Jahr nicht erneuern kann.";
+
+/* 1.6 Ha */
+"Our precise ecological footprint consists of 1.6 global hectares. This means that we must use the biocapacity of 1.6 hectares of biologically productive earth surface. Why 1.6 hectares? If we divide all global hectares all over the Earth by the number of people, we currently have 1.6 hectares available on the Earth. This means that we use all available global hectares, so we’d prefer to need even less." = "Unser genauer ökologischer Fußabdruck umfasst 1,6 globale Hektar. Das bedeutet, dass wir die Biokapazität von 1,6 Hektar biologisch produktiver Erdoberfläche nutzen müssen. Warum 1,6 Hektar? Wenn wir alle globalen Hektar auf der ganzen Erde durch die Anzahl der Menschen teilen, stehen uns derzeit 1,6 Hektar auf der Erde zur Verfügung. Das bedeutet, dass wir alle verfügbaren globalen Hektar nutzen, also am liebsten noch weniger brauchen.";
+
+"If we live life like this, we can get just enough from the Earth, but are still on the brink of exhaustion." = "Wenn wir so leben, können wir gerade genug von der Erde bekommen, sind aber immer noch am Rande der Erschöpfung.";
+
+"On this date when we have used everything that nature can renew in a whole year all over the Earth. In this way we use exactly what nature can renew, but this also shows that we are also walking on a small edge." = "An diesem Tag haben wir alles verbraucht, was die Natur in einem ganzen Jahr überall auf der Erde erneuern kann. Auf diese Weise nutzen wir genau das, was die Natur erneuern kann, aber das zeigt auch, dass wir uns auf einem schmalen Grat bewegen.";
+
+/* 5 Ha */
+"Our ecological footprint consists of 5 global hectares. This means that we use the average biocapacity of 5 hectares of biologically productive earth surface. Why 5 hectares? Think about what you’re eating, how much time you’re spending in a car, how much green energy you’re using and how often you’re sitting on the plane." = "Unser ökologischer Fußabdruck besteht aus 5 globalen Hektar. Das bedeutet, dass wir die durchschnittliche Biokapazität von 5 Hektar biologisch produktiver Erdoberfläche nutzen. Warum 5 Hektar? Denken Sie darüber nach, was Sie essen, wie viel Zeit Sie im Auto verbringen, wie viel grüne Energie Sie verbrauchen und wie oft Sie im Flugzeug sitzen.";
+
+"If everyone goes through life just like the average Dutch person, we need not one, but 3.1 Earths to suffice our needs." = "Wenn jeder so durchs Leben geht wie der durchschnittliche Niederländer, brauchen wir nicht nur eine, sondern 3.1 Erden, um unsere Bedürfnisse zu befriedigen.";
+
+"On this date we have used everything that nature can renew in a whole year all over the Earth. This means that anything we use after this date, nature cannot renew it in that year." = "An diesem Tag haben wir auf der ganzen Erde alles verbraucht, was die Natur in einem ganzen Jahr erneuern kann. Das bedeutet, dass alles, was wir nach diesem Datum verbrauchen, die Natur in diesem Jahr nicht mehr erneuern kann.";
+
+/* Carousel screens */
+
+/* AR */
+"Aim your camera towards the floriade map and you will see a foot appear. This foot will show you how big of a piece of ground a person needs to live. Using the feet in the top-right corner you can switch between different sizes" = "Richten Sie Ihre Kamera auf den Grundriss der Floriade und Sie werden sehen, wie ein Fuß auftaucht. Dieser Fuß bildet das Stück Land ab, das ein Mensch zum Leben benötigt. Sie können zwischen folgenden Optionen wechseln.";
+
+/*  Map */
+"Two feet will be shown on the map in your screen. These feet will show the average dutch carbon footprint (in red) and the perfect one (in green). The blue point will be showing where you are located. While wandering about you will be able to see here if you are in one of the feet. This way you can get a feeling of the size of these feet and how much area you need." = "Auf der Karte auf Ihrem Bildschirm werden zwei Füße angezeigt. Diese Füße zeigen abwechselnd den durchschnittlichen niederländischen Fußabdruck (in rot) und den idealen Fußabdruck (in grün). Der blaue Punkt zeigt Ihren Standort. Während Sie um die Floriade herumgehen, können Sie sehen, in welchem ​​​​Fuß Sie sich hier befinden. So erleben Sie die Größe des niederländischen Fußabdrucks.";
+
+/* Footprint */
+"Your footprint" = "Ihr Fußabdruck";
+"After clicking the icon of your own footprint you will be able to calculate its size by answereing 12 questions. These questions can be answered by sliding a button. After these questions your foot will be shown on the map." = "Indem Sie auf das Symbol Ihres eigenen Fußabdrucks klicken, können Sie diesen berechnen, indem Sie 12 Fragen beantworten. Sie können diese Fragen beantworten, indem Sie eine knopf verschieben. Nach diesen Fragen erscheint Ihr Fuß auf der Karte.";

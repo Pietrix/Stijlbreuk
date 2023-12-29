@@ -1,0 +1,83 @@
+[
+{"Id": "archipel", "Name": "Archipel", "Type": "Playground", "Empire": "Reizenrijk", "Count": "8", "Image": "./images/rides/Archipel.jpg"}
+,
+{"Id": "badhuys", "Name": "Het Badhuys", "Type": "Swimmingpool", "Empire": "Bosrijk", "Count": "28", "Image": "./images/rides/antonpieck.jpg"}
+,
+{"Id": "baron1898", "Name": "Baron 1898", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/baron1898.jpg"}
+,
+{"Id": "baron1898singlerIder", "Name": "Baron 1898 Single-rIder", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/baron1898.jpg"}
+,
+{"Id": "carnavalfestival", "Name": "Carnaval Festival", "Type": "Darkride", "Empire": "Reizenrijk", "Count": "8", "Image": "./images/rides/carnavalfestival.jpg"}
+, 
+{"Id": "carrouselsantonpieckplein", "Name": "Anton Pieck Plein (carrousels)", "Type": "Flatride", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/antonpieck.jpg"}
+,
+{"Id": "devliegendehollander", "Name": "De Vliegende Hollander", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/vliegendehollander.jpg"}
+,
+{"Id": "devliegendehollandersinglerIder", "Name": "De Vliegende Hollander Single-rIder", "Type": "Attracties", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/vliegendehollander.jpg"}
+, 
+{"Id": "dezeszwanenrondvaart", "Name": "De zes Zwanen Rondvaart", "Type": "Flatride", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/zeszwanen.jpg"}
+,
+{"Id": "diorama", "Name": "Diorama", "Type": "Walktrough", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/diorama.jpg"}
+, 
+{"Id": "doudetuffer", "Name": "De Oude Tufferbaan", "Type": "Trackedride", "Empire": "Ruigrijk", "Count": "14", "Image": "./images/rides/oudetufferbaan.jpg"}
+,
+{"Id": "droomvlucht", "Name": "Droomvlucht", "Type": "Rollercoaster", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/droomvlucht.jpg"}
+,
+{"Id": "eftelingmuseum", "Name": "Efteling Museum", "Type": "Walktrough", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/eftelingmuseum.jpg"}
+,
+{"Id": "fabula", "Name": "Fabula", "Type": "Theater", "Empire": "Anderrijk", "Count": "8", "Image": "./images/rides/fabula.jpg"}
+,
+{"Id": "fatamorgana", "Name": "Fata Morgana", "Type": "Darkride", "Empire": "Anderrijk", "Count": "8", "Image": "./images/rides/fatamorgana.jpg"}
+,
+{"Id": "gondoletta", "Name": "Gondoletta", "Type": "Trackedride", "Empire": "Reizenrijk", "Count": "8", "Image": "./images/rides/gondaletta.jpg"}
+,
+{"Id": "halvemaen", "Name": "Halve Maen", "Type": "Flatride", "Empire": "Ruigrijk", "Count": "14", "Image": "./images/rides/halvemean.jpg"}
+,
+{"Id": "jorisendedraak", "Name": "Joris en de Draak", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/jorisendedraak.jpg"}
+,
+{"Id": "jorisendedraaksinglerIder", "Name": "Joris en de Draak Single-rIder", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/jorisendedraak.jpg"}
+,
+{"Id": "kinderspoor", "Name": "Kinderspoor", "Type": "Trackedride", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/kinderspoor.jpg"}
+,
+{"Id": "kindervreugd", "Name": "Kindervreugd", "Type": "Playground", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/kindervreugd.jpg"}
+,
+{"Id": "kleuterhof", "Name": "Kleuterhof", "Type": "Playground", "Empire": "Reizenrijk", "Count": "8", "Image": "./images/rides/kleuterhof.jpg"}
+, 
+{"Id": "maxmoritz", "Name": "Max & Moritz", "Type": "Rollercoaster", "Empire": "Anderrijk", "Count": "8", "Image": "./images/rides/maxenmoritz.jpg"}
+,
+{"Id": "maxmoritzsinglerIder", "Name": "Max & Moritz Single-rIder", "Type": "Rollercoaster", "Empire": "Anderrijk", "Count": "4", "Image": "./images/rides/maxenmoritz.jpg"}
+,
+{"Id": "pagode", "Name": "Pagode", "Type": "Observation", "Empire": "Reizenrijk", "Count": "8"}
+,
+{"Id": "pirana", "Name": "Piraña", "Type": "Waterride", "Empire": "Anderrijk", "Count": "8"}
+,
+{"Id": "python", "Name": "Python", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/python.jpg"}
+, 
+{"Id": "pythonsinglerIder", "Name": "Python Single-rIder", "Type": "Rollercoaster", "Empire": "Ruigrijk", "Count": "8", "Image": "./images/rides/python.jpg"}
+,
+{"Id": "sirocco", "Name": "Sirocco", "Type": "Flatride", "Empire": "Reizenrijk", "Count": "8"}
+,
+{"Id": "speelbosnest", "Name": "Speelbos Nest", "Type": "Playground", "Empire": "Ruigrijk", "Count": "8"}
+,
+{"Id": "sprookjesbos", "Name": "Sprookjesbos", "Type": "Playground", "Empire": "Marerijk", "Count": "8"}
+,
+{"Id": "stoomcarrousel", "Name": "Stoomcarrousel", "Type": "Flatride", "Empire": "Marerijk", "Count": "8"}
+,
+{"Id": "stoomtreinm", "Name": "Stoomtrein Marerijk", "Type": "Transport", "Empire": "Marerijk", "Count": "8"}
+,
+{"Id": "stoomtreinr", "Name": "Stoomtrein Ruigrijk", "Type": "Transport", "Empire": "Ruigrijk", "Count": "8"}
+,
+{"Id": "symbolica", "Name": "Symbolica", "Type": "Darkride", "Empire": "Fantasierijk", "Count": "8", "Image": "./images/rides/symbolica.jpg"}
+,
+{"Id": "symbolicasinglerIder", "Name": "Symbolica Single-rIder", "Type": "Darkride", "Empire": "Fantasierijk", "Count": "8", "Image": "./images/rides/symbolica.jpg"}
+,
+{"Id": "villavolta", "Name": "Villa Volta", "Type": "Attracties", "Empire": "Marerijk", "Count": "8"}
+,
+{"Id": "virtueledroomvlucht", "Name": "Virtuele Droomvlucht", "Type": "Darkride", "Empire": "Marerijk", "Count": "8", "Image": "./images/rides/virtueldroomvlucht.jpg"}
+,
+{"Id": "vogelrok", "Name": "Vogel Rok", "Type": "Rollercoaster", "Empire": "Reizenrijk", "Count": "8"}
+,
+{"Id": "volkvanlaaf", "Name": "Volk van Laaf", "Type": "Playground", "Empire": "Marerijk", "Count": "8"}
+, 
+{"Id": "volkvanlaafmonorail", "Name": "Volk van Laaf (Monorail)", "Type": "Trackedride", "Empire": "Marerijk", "Count": "8"}
+]

@@ -1,0 +1,29 @@
+@import '../../styles/variables.scss';
+
+.wrapper{
+    position: fixed;
+    top: 0;
+    width: calc(100% - $unit-xl);
+    height: 50px;
+    padding: 0 $unit-l;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    z-index: 999;
+    transition: .5s ease-in-out all;
+
+    &.hidden{
+        transform: translateY(-150%);
+    }
+}
+
+.logo{
+    height: $unit-xl;
+    align-self: center;
+}
+
+.icon{
+    height: $unit-l-h;
+    align-self: center;
+}

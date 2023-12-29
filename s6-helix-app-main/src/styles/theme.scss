@@ -1,0 +1,57 @@
+@import 'variables.scss';
+
+// Assign basic styling to used elements
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $font-inter;
+    font-weight: $fw-semi;
+    color: $clr-black;
+}
+
+h1 {
+    font-size: $fs-h1;
+}
+
+h2 {
+    font-size: $fs-h2;
+}
+
+h3 {
+    font-size: $fs-h3;
+}
+
+h4 {
+    font-size: $fs-h4;
+}
+
+h5 {
+    font-size: $fs-h5;
+}
+h6 {
+    font-size: $fs-normal;
+}
+
+p{
+    color: $clr-black;
+    font-family: $font-inter;
+
+    font-size: $fs-milli;
+}
+
+.innerApp{
+    padding: 0 $unit-l;
+}
+
+.innerApp{
+    padding: 0 $unit-l;
+}
+
+.leaflet-div-icon {
+    background: transparent;
+    border: none;
+} 

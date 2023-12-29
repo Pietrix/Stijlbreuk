@@ -1,0 +1,59 @@
+// Create variables to clean up the styling documents per component and be able 
+// to easily change a value once without needing to do this in all documents.
+
+$font-inter: 'Inter', sans-serif;
+
+// Size units
+$unit-xs: 2px;
+$unit-s: 4px;
+$unit-s-h: 6px;
+$unit: 8px;
+$unit-m: 12px;
+$unit-l: 16px;
+$unit-l-h: 24px;
+$unit-xl: 32px;
+$unit-xl-m: 40px;
+$unit-xl-h: 48px;
+$unit-xxl: 64px;
+$unit-xxl-m: 80px;
+$unit-xxl-l: 96px;
+$unit-xxxl: 112px;
+$unit-xxxl-m: 140px;
+$unit-xxxl-h: 180px;
+$unit-xxxxl: 250px;
+
+// Font size
+$fs-h1: 1.8rem; // Headline 1
+$fs-h2: 1.6rem; // Headline 2
+$fs-h3: 1.4rem; // Headline 3
+$fs-h4: 1.2rem; // Headline 4
+$fs-h5: 1.1rem; // Headline 5
+$fs-normal: 1rem; // Interface: default text
+$fs-milli: 0.875rem; // Interface: label
+$fs-micro: 0.75rem; // Interface: helperText
+$fs-small: 0.65rem;
+
+// Font weight
+$fw-light: 300;
+$fw-medium: 400;
+$fw-regular: 500;
+$fw-semi: 600;
+$fw-bold: 700;
+
+// Line height
+$lh-base: 1.2;
+$lh-medium: 1.375;
+$lh-large: 1.5;
+
+// Letter spacing
+$ls-base: 0;
+$ls-micro: 0.01rem;
+$ls-mini: 0.05rem;
+$ls-med: 0.1rem;
+$ls-small: 0.2rem;
+
+// Colors
+$clr-blue: #3275CC;
+$clr-orange: #FF8A2B;
+$clr-black: #171717;
+$clr-white: #fff;
