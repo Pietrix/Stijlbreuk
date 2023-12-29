@@ -6,8 +6,6 @@ For a schoolproject we invented Helix, the mobile app for the themepark enthousi
 
 ## The app
 
-If you want to test te parts of the app that we made, you can follow [this](http://helix.kevinvloon.nl) link. The pages that you can try are the "trip" and "count" page wich you also can see down here. The app is made for your mobile. So if you are checking it out on your laptop, we advice to check it in inspect mode (F12) and use smartphone dimension.
-
 <img src="public/images/readme/trip.png" width="150" />
 <img src="public/images/readme/count.png" width="150" />
 <br>
