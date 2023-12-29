@@ -5,6 +5,6 @@ Ik heb bij liveWall gewerkt aan de implementatie van een nieuw moderatiesysteem 
 
 Het Endgage-systeem wordt ingezet voor het creëren en beheren van presentaties of content walls tijdens evenementen. Gasten hebben de mogelijkheid om antwoorden, reacties, foto's en chats naar het systeem te sturen, waarna het op verschillende manieren op een scherm kan worden weergegeven. 
 
-![alt text](https://git.fhict.nl/I394246/livewall-portfolio/-/raw/main/Wiki/Prototype.png)
+![alt text](https://github.com/Pietrix/Stijlbreuk/blob/main/LiveWall/Prototype.png)
 
 
