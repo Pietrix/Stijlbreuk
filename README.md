@@ -1,7 +1,7 @@
 
 # Projecten
 
-Bovenstaand zie je vier projecten waaraan ik de afgelopen tijd heb gewerkt. Binnen deze projecten heb ik mijn vaardigheden als ontwikkelaar gedemonstreerd, maar ook mijn capaciteiten en enthousiasme als UX-UI ontwerper laten zien.
+Bovenstaand vind je vier projecten waaraan ik de afgelopen tijd heb gewerkt. Binnen deze projecten laat ik zien wat ik als ontwikkelaar kan, maar ook wat mijn vaardigheden en voorkeuren zijn als UX-UI designer.
 
 
 
